@@ -2,6 +2,11 @@
 
 A Machine Learning based web application developed using Random Forest and Streamlit to predict whether a telecom customer is likely to churn.
 
+## Authors
+
+- Vriddhi Sharma 14701182025
+- Srishti Sharma 13001182025
+
 ## Features
 
 - Predict customer churn
@@ -31,8 +36,3 @@ A Machine Learning based web application developed using Random Forest and Strea
 ## Dataset
 
 Customer Churn Dataset
-
-## Authors
-
-- Vriddhi Sharma
-- Srishti Sharma
